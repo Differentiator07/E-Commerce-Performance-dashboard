@@ -38,11 +38,6 @@ Built an end-to-end ETL and analytics solution to analyze e-commerce sales data 
 
 ---
 
-## 📸 Dashboard Preview
-![Dashboard](images/dashboard.png)
-
----
-
 ## 💼 Business Impact
 Helps stakeholders monitor performance, identify growth trends, and make data-driven decisions.
 
